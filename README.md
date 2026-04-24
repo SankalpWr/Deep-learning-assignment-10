@@ -3,7 +3,7 @@
 
 Deep learning training techniques
 
-https://docs.google.com/document/d/1V7nZk-vopbwBnzU1YEnnrVs9OAPPLJ-J9M1nSwBhios/edit?usp=sharing
+https://colab.research.google.com/drive/1O7d_kcCKUYhdkVWcQ7m43DZlHnplggay?usp=sharing
 
 
 Metrics for classification - fundamentals
